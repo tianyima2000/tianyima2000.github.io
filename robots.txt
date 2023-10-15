@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Tianyi-Ma-2000.github.io/al-folio/sitemap.xml
+Sitemap: https://tianyi-ma-2000.github.io/sitemap.xml
