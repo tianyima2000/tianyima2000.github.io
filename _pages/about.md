@@ -25,7 +25,8 @@ I am a first-year PhD student (starting from October 2023) at the Statistical La
 My current research focuses on problems in missing data and robust statistics. I am also generally interested in high-dimensional statistics.
 
 ###### H6
+1
 
 <h6>H6</h6>
-
+2
 
