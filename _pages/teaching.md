@@ -7,5 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-* 2023-2024:
-  * Part II Principles of Statistics (supervision).
+2023-2024:
+* Part II Principles of Statistics (supervision)
+* Part II Mathematics of Machine Learning (supervision)
