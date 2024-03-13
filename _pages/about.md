@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: AVATAR4.jpg
+  image: AVATARoffice.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
