@@ -3,9 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-nav: false
+nav: true
 nav_order: 1
 ---
 
-* Paper 1
-* Paper 2
+* Ma, T., Verchand K. A., Samworth, R. J. (2024) High-probability minimax lower bounds. *Preprint.*
