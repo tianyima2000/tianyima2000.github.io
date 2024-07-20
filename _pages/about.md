@@ -23,6 +23,6 @@ Email: [tm681@cam.ac.uk](mailto:tm681@cam.ac.uk)
 I am a PhD student at the Statistical Laboratory, University of Cambridge, supervised by [Prof Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/) and [Dr Tengyao Wang](https://personal.lse.ac.uk/wangt60/). Before that, I obtained my MMath and BA degrees in Mathematics from the University of Cambridge in July 2023.
 
 #### Research interests
-I am generally interested in robust, nonparametric, high-dimensional statistics, missing data, and machine learning problems. My current research focuses on developing and studying the theoretical properties of algorithms that are robust to outliers, missing data or heavy-tailed distributions.
+I am generally interested in robust, nonparametric statistics, missing data, and machine learning problems. My current research focuses on developing and studying the theoretical properties of algorithms that are robust to outliers, missing data or heavy-tailed distributions.
 
 
