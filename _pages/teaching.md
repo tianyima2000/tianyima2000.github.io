@@ -7,6 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-2023-2024:
-* Part II Principles of Statistics (supervision)
-* Part II Mathematics of Machine Learning (supervision)
+Supervisions:
+* Part II Principles of Statistics, Michaelmas 2023.
+* Part II Mathematics of Machine Learning, Lent 2024.
