@@ -13,6 +13,7 @@ nav_order: 1
 * Tianyi Ma, Kabir A. Verchand, Thomas B. Berrett, Tengyao Wang and Richard J. Samworth. (2024) <br>
   [**Estimation beyond Missing (Completely) at Random.**](https://arxiv.org/abs/2410.10704) *Preprint, arXiv:2410.10704.*
 * Tianyi Ma, Kabir A. Verchand and Richard J. Samworth. (2024) <br>
-  [**High-probability minimax lower bounds.**](https://arxiv.org/abs/2406.13447) *Preprint, arXiv:2406.13447.*
+  <a href="https://arxiv.org/abs/2406.13447" style="font-weight: bold;">High-probability minimax lower bounds.</a>
+ *Preprint, arXiv:2406.13447.*
   
 
