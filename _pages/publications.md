@@ -8,12 +8,12 @@ nav_order: 1
 ---
 
 * Tianyi Ma, Tengyao Wang and Richard J. Samworth. (2025) <br>
-  **[Deep learning with missing data.](https://arxiv.org/abs/2504.15388)** *Preprint, arXiv:2504.15388.* [[code]](https://github.com/tianyima2000/DNN_missing_data)
+  **[Deep learning with missing data.](https://arxiv.org/abs/2504.15388)** *Preprint, arXiv:2504.15388* [[code]](https://github.com/tianyima2000/DNN_missing_data)
 
 * Tianyi Ma, Kabir A. Verchand, Thomas B. Berrett, Tengyao Wang and Richard J. Samworth. (2024) <br>
-  **[Estimation beyond Missing (Completely) at Random.](https://arxiv.org/abs/2410.10704)** *Preprint, arXiv:2410.10704.*
+  **[Estimation beyond Missing (Completely) at Random.](https://arxiv.org/abs/2410.10704)** *Preprint, arXiv:2410.10704*
 
 * Tianyi Ma, Kabir A. Verchand and Richard J. Samworth. (2024) <br>
-  **[High-probability minimax lower bounds.](https://arxiv.org/abs/2406.13447)** *Preprint, arXiv:2406.13447.*
+  **[High-probability minimax lower bounds.](https://arxiv.org/abs/2406.13447)** *Preprint, arXiv:2406.13447*
   
 
