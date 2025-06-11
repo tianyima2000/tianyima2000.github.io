@@ -30,9 +30,9 @@ jobs:
         python-version: '3.x'
 
     - name: Setup Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
-        node-version: '16'
+        node-version: '20'
 
     - name: Update _config.yml ⚙️
       uses: fjogeleit/yaml-update-action@v0.13.1
