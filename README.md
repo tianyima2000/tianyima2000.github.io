@@ -27,7 +27,7 @@ The webpage cannot be loaded correctly in China without VPN. This problem was so
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 If you like the theme, give it a star!
 
-[![Preview]](https://alshedivat.github.io/al-folio/)
+[Preview](https://alshedivat.github.io/al-folio/)
 
 ## User community
 
