@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile2.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
@@ -24,6 +24,7 @@ I am a PhD student at the [Statistical Laboratory, University of Cambridge](http
 
 #### Research interests
 I am broadly interested in statistics and machine learning. In particular, I am interested in providing theoretical guarantees for modern machine learning methods, such as deep learning and in-context learning. I am also interested in nonparametric statistics and missing data problems.
+
 
 
 
