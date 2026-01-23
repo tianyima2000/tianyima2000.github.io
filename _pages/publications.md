@@ -6,6 +6,8 @@ description:
 nav: true
 nav_order: 1
 ---
+* **[Efficient and Minimax-optimal In-context Nonparametric Regression with Transformers](https://arxiv.org/abs/2601.15014)** *Preprint, arXiv:2601.15014* <br>
+  Michelle Ching, Ioana Popescu, Nico Smith, Tianyi Ma, William G. Underwood and Richard J. Samworth
 
 * **[Provable test-time adaptivity and distributional robustness of in-context learning.](https://arxiv.org/abs/2510.23254)** *Preprint, arXiv:2510.23254* <br>
   Tianyi Ma, Tengyao Wang and Richard J. Samworth. (2025) <br>
@@ -22,6 +24,7 @@ nav_order: 1
 * **[High-probability minimax lower bounds.](https://arxiv.org/abs/2406.13447)** *Statistical Science (to appear)* <br>
   Tianyi Ma, Kabir A. Verchand and Richard J. Samworth. (2025+) 
   
+
 
 
 
