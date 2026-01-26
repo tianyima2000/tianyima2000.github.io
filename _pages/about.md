@@ -20,10 +20,11 @@ Email: [tm681@cam.ac.uk](mailto:tm681@cam.ac.uk)
 ---
 
 #### About me
-I am a third-year PhD student at the [Statistical Laboratory, University of Cambridge](https://www.statslab.cam.ac.uk/), supervised by [Prof Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/) and [Prof Tengyao Wang](https://personal.lse.ac.uk/wangt60/). Previously, I obtained my MMath and BA degrees in Mathematics from the University of Cambridge in July 2023. This year, I am also organising the [Statistics Clinic](https://www.statslab.cam.ac.uk/clinic/statistics-clinic).
+I am a PhD student at the [Statistical Laboratory, University of Cambridge](https://www.statslab.cam.ac.uk/), supervised by [Prof Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/) and [Prof Tengyao Wang](https://personal.lse.ac.uk/wangt60/). Previously, I obtained my MMath and BA degrees in Mathematics from the University of Cambridge in July 2023. 
 
 #### Research interests
 I am broadly interested in statistics and machine learning. In particular, I focus on establishing theoretical guarantees for modern machine learning methods, such as deep learning and in-context learning. I am also interested in nonparametric statistics and missing data problems.
+
 
 
 
