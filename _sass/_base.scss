@@ -32,7 +32,8 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-size: 17px;
+  font-size: 16px;
+  font-family:'Times New Roman';
 }
 
 
@@ -1063,6 +1064,7 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
 
 
 
