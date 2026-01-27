@@ -9,7 +9,7 @@ h1 {
   color: var(--global-text-color);
   // font-weight: bold;
   font-size: 45px;
-  font-weight: 400;
+  font-weight: 350;
 }
 
 
@@ -21,7 +21,7 @@ h5,
 h6 {
   color: var(--global-text-color);
   // font-weight: bold;
-  font-weight: 400;
+  font-weight: 350;
 }
 
 
@@ -33,7 +33,7 @@ span,
 strong {
   color: var(--global-text-color);
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 350;
 }
 
 
@@ -1064,6 +1064,7 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
 
 
 
