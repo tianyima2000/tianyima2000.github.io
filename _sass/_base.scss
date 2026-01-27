@@ -7,9 +7,9 @@
 
 h1 {
   color: var(--global-text-color);
-  font-weight: 325;
+  font-weight: 600;
   font-size: 42px;
-  font-family: "Times New Roman";
+  font-family: "Libertinus Serif", serif;
 }
 
 
@@ -20,8 +20,8 @@ h4,
 h5,
 h6 {
   color: var(--global-text-color);
-  font-weight: 325;
-  font-family: "Times New Roman";
+  font-weight: 600;
+  font-family: "Libertinus Serif", serif;
 }
 
 
@@ -32,8 +32,8 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-size: 16.5px;
-  font-family: "Times New Roman";
+  font-size: 16px;
+  font-family: "Libertinus Serif", serif;
 }
 
 
@@ -1064,6 +1064,7 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
 
 
 
