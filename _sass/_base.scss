@@ -7,9 +7,9 @@
 
 h1 {
   color: var(--global-text-color);
-  font-weight: 600;
+  font-weight: 500;
   font-size: 42px;
-  font-family: "Libertinus Serif", serif;
+  font-family: "STIX Two Text", serif;
 }
 
 
@@ -20,8 +20,8 @@ h4,
 h5,
 h6 {
   color: var(--global-text-color);
-  font-weight: 600;
-  font-family: "Libertinus Serif", serif;
+  font-weight: 500;
+  font-family: "STIX Two Text", serif;
 }
 
 
@@ -33,7 +33,7 @@ span,
 strong {
   color: var(--global-text-color);
   font-size: 17px;
-  font-family: "Libertinus Serif", serif;
+  font-family: "STIX Two Text", serif;
 }
 
 
@@ -1064,6 +1064,7 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
 
 
 
