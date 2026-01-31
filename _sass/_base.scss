@@ -29,8 +29,7 @@ p,
 em,
 div,
 li,
-span,
-strong {
+span {
   color: var(--global-text-color);
   font-weight: 400;
   font-size: 16px;
@@ -1073,6 +1072,7 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
 
 
 
