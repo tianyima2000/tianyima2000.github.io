@@ -32,6 +32,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-weight: 400;
   font-size: 17px;
   font-family: "STIX Two Text", serif;
 }
@@ -1069,6 +1070,7 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
 
 
 
