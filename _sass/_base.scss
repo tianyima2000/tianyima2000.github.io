@@ -27,13 +27,13 @@ h6 {
 
 html, body {
   font-family: "STIX Two Text", serif;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 18px;
   color: var(--global-text-color);
 }
 
 
-strong, b { font-weight: 600; }
+strong, b { font-weight: 500; }
 
 
 
@@ -1062,6 +1062,7 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
 
 
 
