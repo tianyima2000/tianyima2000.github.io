@@ -14,10 +14,9 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
----
-Chinese name: 马天一 <br>
-Email: [tm681@cam.ac.uk](mailto:tm681@cam.ac.uk)
-
+--- 
+Email: [tm681@cam.ac.uk](mailto:tm681@cam.ac.uk) <br>
+Name in Chinese: 马天一
 ---
 
 #### About me
@@ -25,6 +24,7 @@ I am a third-year PhD student at the [Statistical Laboratory, University of Camb
 
 #### Research interests
 I am broadly interested in statistics and machine learning. In particular, I focus on establishing theoretical guarantees for modern machine learning methods, such as deep learning and in-context learning. I am also interested in nonparametric statistics and missing data problems.
+
 
 
 
