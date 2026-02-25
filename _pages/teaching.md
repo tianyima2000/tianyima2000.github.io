@@ -11,7 +11,9 @@ Examples class:
 * Part III Topics in Statistical Theory: Michaelmas 2025.
 
 Supervisions:
+* Part IB Statistics, Lent 2026.
 * Part II Mathematics of Machine Learning: Lent 2024, Lent 2025.
 * Part II Principles of Statistics: Michaelmas 2023.
+
 
 
