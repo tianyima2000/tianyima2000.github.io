@@ -22,7 +22,7 @@ nav_order: 1
   (IMS Hannan Graduate Student Travel Award, 2025)
 
 * **[High-probability minimax lower bounds.](https://arxiv.org/abs/2406.13447)** *Statistical Science (to appear)* <br>
-  **Ma, T.**, Verchand, K. A., Samworth, R. J. (2025+) 
+  **Ma, T.**, Verchand, K. A., Samworth, R. J. (2026+) 
   
 
 
