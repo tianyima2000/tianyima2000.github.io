@@ -14,7 +14,7 @@ nav_order: 1
 * **Ma, T.**, Wang, T. and Samworth, R. J. (2025) [Deep learning with missing data.](https://arxiv.org/abs/2504.15388) *Preprint, arXiv:2504.15388.* [[code]](https://github.com/tianyima2000/DNN_missing_data) <br>
   (Student Travel Award, ICSDS 2025)
 
-* **Ma, T.**, Verchand, K. A., Berrett, T. B., Wang, T. and Samworth, R. J. (2026+) [Estimation beyond Missing (Completely) at Random.](https://arxiv.org/abs/2410.10704) *Annals of Statistics (to appear).* <br>
+* **Ma, T.**, Verchand, K. A., Berrett, T. B., Wang, T. and Samworth, R. J. (2026+) [Estimation beyond Missing (Completely) at Random.](https://arxiv.org/abs/2410.10704) *The Annals of Statistics (to appear).* <br>
   (IMS Hannan Graduate Student Travel Award, 2025)
 
 * **Ma, T.**, Verchand, K. A., Samworth, R. J. (2026+) [High-probability minimax lower bounds.](https://arxiv.org/abs/2406.13447) *Statistical Science (to appear).* 
