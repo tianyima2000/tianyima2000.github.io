@@ -227,10 +227,12 @@ blockquote {
   }
 
   .navbar-brand {
+    font-family: "Inter", sans-serif;
     color: var(--global-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
+    font-family: "Inter", sans-serif;
     color: var(--global-text-color);
 
     &:hover {
