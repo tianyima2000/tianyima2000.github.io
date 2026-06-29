@@ -8,15 +8,15 @@ nav_order: 1
 ---
 ##### Preprints
 * **Ma, T.**, Wang, T. and Samworth, R. J. (2025) [Optimal in-context adaptivity and distributional robustness of transformers.](https://arxiv.org/abs/2510.23254) *Preprint, arXiv:2510.23254.* <br>
-  --(Student Paper Award, ASA Nonparametric Statistics Section, JSM 2026)
+  ---(Student Paper Award, ASA Nonparametric Statistics Section, JSM 2026)
 
 
 ##### Publications
 * **Ma, T.**, Wang, T. and Samworth, R. J. (2026) [Deep learning with missing data.](https://arxiv.org/abs/2504.15388) *Journal of the Royal Statistical Society, Series&nbsp;B (to appear).* [[code]](https://github.com/tianyima2000/DNN_missing_data) <br>
-  --(Student Travel Award, ICSDS 2025)
+  ---(Student Travel Award, ICSDS 2025)
   
 * **Ma, T.**, Verchand, K. A., Berrett, T. B., Wang, T. and Samworth, R. J. (2026) [Estimation beyond Missing (Completely) at Random.](https://arxiv.org/abs/2410.10704) *Annals of Statistics (to appear).* <br>
-  --(IMS Hannan Graduate Student Travel Award, 2025)
+  ---(IMS Hannan Graduate Student Travel Award, 2025)
 
 * Ching, M., Popescu, I., Smith, N., **Ma, T.**, Underwood, W. G. and Samworth, R. J. (2026) [Efficient and minimax optimal in-context nonparametric regression with transformers.](https://arxiv.org/abs/2601.15014) *International Conference on Machine Learning.*
 
