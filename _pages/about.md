@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Name in Chinese: 马天一
+subtitle:
 
 profile:
   align: right
@@ -15,6 +15,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 --- 
+Name in Chinese: 马天一 <br>
+
 [Email](mailto:tm681@cam.ac.uk) <br>
 [Google Scholar](https://scholar.google.co.uk/citations?user=b5D4qwsAAAAJ&hl=en)
 
