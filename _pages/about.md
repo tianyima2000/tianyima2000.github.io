@@ -15,8 +15,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 --- 
+Name in Chinese: 马天一 <br>
 Email: [tm681@cam.ac.uk](mailto:tm681@cam.ac.uk) <br>
-Name in Chinese: 马天一
+[Google Scholar](https://scholar.google.co.uk/citations?user=b5D4qwsAAAAJ&hl=en)
 
 ---
 
