@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-[Email](mailto:tm681@cam.ac.uk) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.co.uk/citations?user=b5D4qwsAAAAJ&hl=en)
+[Email](mailto:tm681@cam.ac.uk)&nbsp;&nbsp;&nbsp;&nbsp;[Google Scholar](https://scholar.google.co.uk/citations?user=b5D4qwsAAAAJ&hl=en)
 
 ---
 
