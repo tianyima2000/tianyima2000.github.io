@@ -20,7 +20,7 @@ nav_order: 1
 
 * Ching, M., Popescu, I., Smith, N., **Ma, T.**, Underwood, W. G. and Samworth, R. J. (2026) [Efficient and minimax optimal in-context nonparametric regression with transformers.](https://arxiv.org/abs/2601.15014) *International Conference on Machine Learning (ICML).*
 
-* **Ma, T.**, Verchand, K. A., Samworth, R. J. (2026) [High-probability minimax lower bounds.](https://arxiv.org/abs/2406.13447) *Statistical Science, to appear.* 
+* **Ma, T.**, Verchand, K. A., Samworth, R. J. (2026) [High-probability minimax lower bounds.](https://projecteuclid.org/journals/statistical-science/volume-41/issue-3/High-Probability-Minimax-Lower-Bounds/10.1214/25-STS996.short) *Statistical Science.* 
   
 
 
