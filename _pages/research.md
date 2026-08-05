@@ -12,7 +12,7 @@ nav_order: 1
 
 
 ##### Publications
-* **Ma, T.**, Wang, T. and Samworth, R. J. (2026) [Deep learning with missing data.](https://arxiv.org/abs/2504.15388) *Journal of the Royal Statistical Society Series&nbsp;B (JRSSB), to appear.* [[code]](https://github.com/tianyima2000/DNN_missing_data) <br>
+* **Ma, T.**, Wang, T. and Samworth, R. J. (2026) [Deep learning with missing data.]([https://arxiv.org/abs/2504.15388](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag114/8747034)) *Journal of the Royal Statistical Society Series&nbsp;B.* [[code]](https://github.com/tianyima2000/DNN_missing_data) <br>
   ---(Student Travel Award, ICSDS 2025)
   
 * **Ma, T.**, Verchand, K. A., Berrett, T. B., Wang, T. and Samworth, R. J. (2026) [Estimation beyond Missing (Completely) at Random.](https://arxiv.org/abs/2410.10704) *Annals of Statistics, to appear.* <br>
