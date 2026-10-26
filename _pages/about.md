@@ -21,10 +21,18 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 ##### About me
-I am postdoctoral researcher at the [Statistical Laboratory, University of Cambridge](https://www.statslab.cam.ac.uk/). Previously, I did my PhD at the University of Cambridge supervised by [Prof Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/) and [Prof Tengyao Wang](https://personal.lse.ac.uk/wangt60/). Before that, I obtained my MMath and BA degrees in Mathematics from the University of Cambridge in July 2023. 
+I am postdoctoral researcher at the [Statistical Laboratory, University of Cambridge](https://www.statslab.cam.ac.uk/). Previously, I completed my PhD at the University of Cambridge supervised by [Prof Richard Samworth](https://www.statslab.cam.ac.uk/~rjs57/) and [Prof Tengyao Wang](https://personal.lse.ac.uk/wangt60/). Before that, I obtained my MMath and BA degrees in Mathematics from the University of Cambridge in 2023. 
 
 ##### Research interests
-I am broadly interested in statistics and machine learning. In particular, my research focuses on nonparametric statistics and theories for deep learning and generative AI.
+* Theories for deep learning and generative AI
+* Nonparametric statistics and minimax rates
+* Optimal transport theory
+
+##### Awards
+* 2027 IMS Lawrence D. Brown Ph.D. Student Award
+* 2026 ASA Nonparametric Statistics Section Student Paper Award
+* 2025 ICSDS Student Travel Award
+* 2025 IMS Hannan Graduate Student Travel Award
 
 
 
