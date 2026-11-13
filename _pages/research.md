@@ -14,7 +14,7 @@ nav_order: 1
 * **Ma, T.**, Wang, T. and Samworth, R. J. (2026) Optimal in-context adaptivity and distributional robustness of transformers. *Advances in Neural Information Processing Systems (NeurIPS), to appear.* [[arXiv]](https://arxiv.org/abs/2510.23254) <br>
   ---(Student Paper Award, ASA Nonparametric Statistics Section, JSM 2026)
 
-* **Ma, T.**, Wang, T. and Samworth, R. J. (2026) Deep learning with missing data. *Journal of the Royal Statistical Society Series&nbsp;B.* [[Journal]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag114/8747034), [[arXiv]](https://arxiv.org/abs/2504.15388), [[code]](https://github.com/tianyima2000/DNN_missing_data) <br>
+* **Ma, T.**, Wang, T. and Samworth, R. J. (2026) Deep learning with missing data. *Journal of the Royal Statistical Society Series&nbsp;B.* [[Journal]](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag114/8747034), [[arXiv]](https://arxiv.org/abs/2504.15388) <br>
   ---(Student Travel Award, ICSDS 2025)
   
 * **Ma, T.**, Verchand, K. A., Berrett, T. B., Wang, T. and Samworth, R. J. (2026) Estimation beyond Missing (Completely) at Random. *Annals of Statistics.* [[Journal]](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-4/Estimation-beyond-missing-completely-at-random/10.1214/26-AOS2640.short), [[arXiv]](https://arxiv.org/abs/2410.10704) <br>
