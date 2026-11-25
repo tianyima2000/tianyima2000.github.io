@@ -25,7 +25,7 @@ I am postdoctoral researcher at the [Statistical Laboratory, University of Cambr
 
 ##### Research interests
 I am broadly interested in statistics and machine learning. Below are some topics that I am particularly interested in:
-* Theories for deep learning and generative models
+* Theories for neural networks, large language models and generative models
 * Nonparametric statistics and minimax theory
 * Optimal transport theory
 
